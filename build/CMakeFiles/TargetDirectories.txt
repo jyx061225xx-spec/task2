@@ -1,3 +1,0 @@
-/home/jingyuxin/task2/light_detector/build/CMakeFiles/light_detector.dir
-/home/jingyuxin/task2/light_detector/build/CMakeFiles/edit_cache.dir
-/home/jingyuxin/task2/light_detector/build/CMakeFiles/rebuild_cache.dir
