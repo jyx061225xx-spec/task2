@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/jingyuxin/task2/light_detector/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/opencv4.5.4/include/opencv4 -std=gnu++14 -o CMakeFiles/light_detector.dir/src/main.cpp.o -c /home/jingyuxin/task2/light_detector/src/main.cpp",
+  "file": "/home/jingyuxin/task2/light_detector/src/main.cpp"
+}
+]
